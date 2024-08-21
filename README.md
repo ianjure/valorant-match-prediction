@@ -1,4 +1,4 @@
-# Valorant Match Prediction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ianjure/valorant-match-prediction/blob/main/Valorant_Match_Prediction.ipynb)
+# Valorant Match Prediction &nbsp; [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ianjure/valorant-match-prediction/blob/main/Valorant_Match_Prediction.ipynb)
 The VALORANT Champions Tour (VCT) showcases the world's top teams in a year-long, global circuit organized by Riot Games.
 This tour comprises three tiers of competition: challengers, masters, and champions.
 The goal of this project is to create a machine learning model to predict the game winners of VCT 2023.
