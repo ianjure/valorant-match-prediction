@@ -10,7 +10,7 @@ we will be using the **[VCT 2023](https://github.com/ianjure/valorant-match-pred
 This dataset contains the basic statistics of each player and team for each game, containing 22 columns and 6,000+ rows.
 
 ## Project Method
-1. **Clean the Data:** Select relevant features, handle categorical variables, calculate average values, and shuffle the data.
+1. **Clean the Data:** Select relevant features, handle categorical variables, calculate average values, and shuffle the dataset.
 2. **Explore the Data:** Find meaningful insights by answering analytical questions.
 3. **Build the Model:** Train the algorithms and find the best one.
 4. **Test the Model:** Build a simple GUI in Google Colab to test new data.
